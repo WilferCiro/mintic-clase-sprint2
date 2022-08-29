@@ -15,6 +15,13 @@ public class Finca {
     private float area;
     private String telefono;
 
+    public Finca(String nombre, String ciudad, float area, String telefono) {
+        this.nombre = nombre;
+        this.ciudad = ciudad;
+        this.area = area;
+        this.telefono = telefono;
+    }
+
     public String getNombre() {
         return nombre;
     }
