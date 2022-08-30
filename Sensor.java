@@ -1,6 +1,6 @@
 // CLASE LLAMADA Finca, existe
 
-enum TipoSensor_Enum {
+public enum TipoSensor_Enum {
     AGUA, LUZ
 }
 
