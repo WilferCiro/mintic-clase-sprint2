@@ -1,1 +1,0 @@
-# mintic-clase-sprint2
